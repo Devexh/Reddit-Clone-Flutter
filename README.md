@@ -19,10 +19,11 @@ A full-featured Reddit clone built using **Flutter** and **Firebase**, supportin
 
 ---
 
-Tech | Description
-Flutter | UI Framework
-Firebase | Auth, Firestore, Cloud Storage, Hosting
-Riverpod | State Management
-Dart | Programming Language
+| Tech             | Description                            |
+|------------------|----------------------------------------|
+| **Flutter**      | UI Framework                           |
+| **Firebase**     | Auth, Firestore, Cloud Storage, Hosting |
+| **Riverpod**     | State Management                        |
+| **Dart**     | Programming Language                        |
 
 ---
